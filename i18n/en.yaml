@@ -1,0 +1,6 @@
+- id: bookSearchConfig
+  translation: |
+    {
+      cache: true,
+      split: " "
+    }
