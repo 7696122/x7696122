@@ -1,2 +1,2 @@
 #!/bin/bash
-hugo server -D --navigateToChanged --disableFastRender
+hugo server --navigateToChanged --disableFastRender
