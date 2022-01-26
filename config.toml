@@ -16,7 +16,7 @@ disqusShortname = "7696122"
 
 enableEmoji = true
 
-pygmentsOptions = "linenos=inline"
+pygmentsOptions = "linenos=true"
 pygmentsCodefences = true
 pygmentsStyle = "emacs"
 pygmentsUseClasses = false
